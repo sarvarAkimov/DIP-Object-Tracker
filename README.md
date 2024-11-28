@@ -2,7 +2,11 @@
 
 This project demonstrates object tracking using OpenCV's **CSRT Tracker**, known for its high accuracy and robustness in challenging scenarios like object overlaps, unpredictable movements, and changes in object shape or size.  
 
+
 ---
+
+
+[VIDEO JOURNALING LINK](https://drive.google.com/file/d/1VE3Hqa44SU2fx5g_u5cWeP9m2yxCmoco/view?usp=sharing)
 
 ## Features  
 
